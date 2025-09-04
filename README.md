@@ -2,6 +2,8 @@
 Analysis of employee compensation fairness using Equality Score
 # Employee Equality Analysis
 
+# Employee Equality Analysis
+
 📊 This project analyzes employee compensation fairness using an **Equality Score**.
 
 ## Dataset
@@ -30,5 +32,12 @@ I added a **4th column: Equality Class** based on rules:
 ## Results
 The final dataset highlights where pay is fair and where discrimination exists, enabling HR teams to take corrective action.
 
+## Preview (Screenshot)
+
+Here’s a sample of the processed dataset with the new **Equality Class** column:
+
+![Equality Table Sample](equality-table-sample.png)
+
 ---
 ✨ Project Completed and Accepted ✔
+
