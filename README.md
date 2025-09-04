@@ -32,7 +32,7 @@ The final dataset highlights where pay is fair and where discrimination exists, 
 
 Here’s a sample of the processed dataset with the new **Equality Class** column:
 
-![Equality Table Sample](projectexcel.pdf)
+![Equality Table Sample](Projectexcel.pdf)
 
 ---
 ✨ Project Completed and Accepted ✔
