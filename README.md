@@ -1,8 +1,4 @@
 # employee-equality-analysis
-Analysis of employee compensation fairness using Equality Score
-# Employee Equality Analysis
-
-# Employee Equality Analysis
 
 📊 This project analyzes employee compensation fairness using an **Equality Score**.
 
