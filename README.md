@@ -28,11 +28,11 @@ I added a **4th column: Equality Class** based on rules:
 ## Results
 The final dataset highlights where pay is fair and where discrimination exists, enabling HR teams to take corrective action.
 
-## Preview (Screenshot)
+## Preview (PDF)
 
 Here’s a sample of the processed dataset with the new **Equality Class** column:
 
-![Equality Table Sample](equality-table-sample.png)
+![Equality Table Sample](projectexcel.pdf)
 
 ---
 ✨ Project Completed and Accepted ✔
